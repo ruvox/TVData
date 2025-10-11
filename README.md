@@ -191,7 +191,7 @@ Die Ordnerstruktur für die Speicherung der Entgelttabelleninformationen sieht w
 
    - `info`: Zusätzliche Informationen über die Zulage.
    - `func_type`: Der zur Berechnung der Zulage verwendete Funktionstyp (z. B. fabsolute oder frelative).
-   - `adding_type`: Soll dieser Betrag zum Monatsgehalt oder nur zum Jahresgehalt hinzugerechnet werden, wie ein Jahressonderzahlung (z. B. `monthly` oder `yearly`).
+   - `adding_type`: Soll dieser Betrag zum Monatsgehalt oder nur zum Jahresgehalt hinzugerechnet werden, wie ein Jahressonderzahlung (z.&nbspB.&nbsp`monthly` oder `yearly`).
    - `label_de`: Das für die Zulage verwendete Label in deutscher Sprache.
    - `label_en`: Die Bezeichnung der Zulage in englischer Sprache.
    - `info_de`: Informationen über die Zulage in deutscher Sprache.
